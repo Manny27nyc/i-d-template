@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.18.3
 LABEL maintainer="Martin Thomson <mt@lowentropy.net>"
 
 RUN set -e; \
